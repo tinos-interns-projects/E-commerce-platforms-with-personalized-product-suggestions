@@ -43,9 +43,7 @@ The system includes:
 📦 project/
 
 ┣ 📜 app.py # Main Flask application
-
 ┣ 📂 templates/ # HTML templates
-
 ┣ 📂 static/
 
 ┃ ┣ 📂 profile_pics/ # User profile images
