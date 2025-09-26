@@ -101,7 +101,7 @@ python app.py
 The app will be available at: http://127.0.0.1:5000
 
 
-# 📊 Recommendation System
+## 📊 Recommendation System
 
 The project uses three approaches:
 
@@ -111,9 +111,9 @@ Collaborative Filtering → Based on user-product interactions (clicks, purchase
 
 Hybrid Approach → Combines both for better personalization.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Arjun K – Developer
+Arjun K – Developer[https://github.com/Arju-Arjun]
 
 📜 License
 
