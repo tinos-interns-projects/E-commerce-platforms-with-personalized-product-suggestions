@@ -113,7 +113,7 @@ Hybrid Approach → Combines both for better personalization.
 
 ## 🧑‍💻 Author
 
-Arjun K – Developer[https://github.com/Arju-Arjun]
+[Arjun K – Developer](https://github.com/Arju-Arjun)
 
 📜 License
 
